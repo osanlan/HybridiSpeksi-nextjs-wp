@@ -1,0 +1,1 @@
+# HybridiSpeksi-nextjs-wp
